@@ -1,5 +1,9 @@
 [package]
 name = "boa_string_literal"
+description = "provides the `js_str!` macro to generate a const instance of `boa_string:JsStr`"
+repository = "https://github.com/takejohn/boa_string_literal"
+readme = "README.md"
+categories = ["development-tools"]
 version = "0.1.0"
 edition = "2024"
 authors = ["Take-John <takejohn@takejohn.jp>"]
