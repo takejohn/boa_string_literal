@@ -2,6 +2,8 @@
 name = "boa_string_literal"
 version = "0.1.0"
 edition = "2024"
+authors = ["Take-John <takejohn@takejohn.jp>"]
+license = "MIT"
 
 [dependencies]
 boa_string = "0.21.1"
